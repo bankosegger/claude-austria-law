@@ -1,0 +1,20 @@
+{
+  "name": "zivilprozessrecht-at",
+  "version": "0.0.1",
+  "description": "GERÜST (in Arbeit): Zivilprozessrecht in Österreich — JN, ZPO, EO, AußStrG, ASGG. Zuständigkeit, Klage und Verfahren erster Instanz, Beweisrecht, Rechtsmittel, Exekution und einstweiliger Rechtsschutz. Noch nicht in marketplace.json gelistet.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "claude-austria-law contributors"
+  },
+  "homepage": "https://github.com/bankosegger/claude-austria-law",
+  "keywords": [
+    "zivilprozessrecht",
+    "oesterreich",
+    "zpo",
+    "jn",
+    "exekutionsordnung",
+    "ausserstreitgesetz",
+    "rechtsmittel",
+    "geruest"
+  ]
+}

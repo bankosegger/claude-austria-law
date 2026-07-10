@@ -1,0 +1,24 @@
+{
+  "name": "arbeitsrecht-at",
+  "version": "0.1.1",
+  "description": "Arbeitsrecht in Österreich: ABGB §§ 1151 ff, AngG, ArbVG, AZG, ARG, UrlG, MSchG, VKG, BMSVG. Harmonisierte Kündigungsfristen (BGBl I 153/2017 idgF), allgemeiner Kündigungsschutz (§ 105 ArbVG), besonderer Kündigungsschutz (MSchG, VKG, BEinstG, ArbVG), Entlassungs- und Austrittsgründe, Abfertigung alt/neu.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "claude-austria-law contributors"
+  },
+  "homepage": "https://github.com/bankosegger/claude-austria-law",
+  "keywords": [
+    "arbeitsrecht",
+    "oesterreich",
+    "kuendigungsschutz",
+    "105-arbvg",
+    "entlassung",
+    "austritt",
+    "abfertigung-neu",
+    "bmsvg",
+    "harmonisierte-kuendigungsfristen",
+    "mschg",
+    "vkg",
+    "betriebsrat"
+  ]
+}

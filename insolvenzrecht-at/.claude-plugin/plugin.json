@@ -1,0 +1,20 @@
+{
+  "name": "insolvenzrecht-at",
+  "version": "0.0.1",
+  "description": "GERÜST (in Arbeit): Insolvenzrecht in Österreich — IO, IESG, ReO, URG. Insolvenzvoraussetzungen und Antragspflichten, Forderungsanmeldung, Insolvenzanfechtung, Sanierungs- und Restrukturierungsverfahren, Schuldenregulierung. Noch nicht in marketplace.json gelistet.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "claude-austria-law contributors"
+  },
+  "homepage": "https://github.com/bankosegger/claude-austria-law",
+  "keywords": [
+    "insolvenzrecht",
+    "oesterreich",
+    "insolvenzordnung",
+    "sanierungsverfahren",
+    "restrukturierung",
+    "privatkonkurs",
+    "anfechtung",
+    "geruest"
+  ]
+}

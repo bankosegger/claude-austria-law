@@ -1,0 +1,22 @@
+{
+  "name": "methodenlehre-abgb",
+  "version": "0.1.1",
+  "description": "Methodenlehre nach §§ 6, 7 ABGB: wörtliche, systematische, teleologische und historische Auslegung; Analogie und Umkehrschluss; Stufenbau der Rechtsordnung nach B-VG; Vorrang des Unionsrechts; Bedeutung der OGH-Judikatur und der RIS-Justiz-RS-Sätze.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "claude-austria-law contributors"
+  },
+  "homepage": "https://github.com/bankosegger/claude-austria-law",
+  "keywords": [
+    "methodenlehre",
+    "abgb",
+    "auslegung",
+    "analogie",
+    "umkehrschluss",
+    "stufenbau-rechtsordnung",
+    "b-vg",
+    "unionsrechts-vorrang",
+    "ogh-praezedenz",
+    "bydlinski"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "austrian-legal-skills",
+  "description": "Experimentelle Plugin- und Skill-Sammlung für österreichisches Recht. Methodenlehre nach ABGB, Hauszitierweise mit RIS-Justiz und BGBl, Arbeitsrecht (AngG, ArbVG, AZG, UrlG) und Datenschutzrecht (DSGVO + DSG). Quellenhygiene: nur verifizierbare Normen und Judikatur, keine Blindzitate.",
+  "owner": {
+    "name": "claude-austria-law contributors"
+  },
+  "plugins": [
+    {
+      "name": "methodenlehre-abgb",
+      "source": "./methodenlehre-abgb",
+      "description": "Methodenlehre nach §§ 6, 7 ABGB: Auslegung (wörtlich, systematisch, teleologisch, historisch), Analogie und Umkehrschluss, Stufenbau der Rechtsordnung nach B-VG, Bedeutung der OGH-Judikatur und der RIS-Justiz-RS-Sätze.",
+      "version": "0.1.1",
+      "author": {
+        "name": "claude-austria-law contributors"
+      }
+    },
+    {
+      "name": "zitierweise-oesterreichisches-recht",
+      "source": "./zitierweise-oesterreichisches-recht",
+      "description": "Österreichische juristische Hauszitierweise: ABGB, Bundesgesetzblatt (BGBl I/II/III), OGH/VfGH/VwGH-Aktenzeichen, RIS-Justiz, RS-Nummern. Sperre gegen Blindzitate ohne frei prüfbare Quelle.",
+      "version": "0.1.1",
+      "author": {
+        "name": "claude-austria-law contributors"
+      }
+    },
+    {
+      "name": "arbeitsrecht-at",
+      "source": "./arbeitsrecht-at",
+      "description": "Arbeitsrecht in Österreich: ABGB §§ 1151 ff, AngG, ArbVG, AZG, UrlG. Harmonisierte Kündigungsfristen (BGBl I 153/2017), allgemeiner und besonderer Kündigungs- und Entlassungsschutz, Anfechtung nach § 105 ArbVG.",
+      "version": "0.1.1",
+      "author": {
+        "name": "claude-austria-law contributors"
+      }
+    },
+    {
+      "name": "datenschutzrecht-at",
+      "source": "./datenschutzrecht-at",
+      "description": "Datenschutz in Österreich: DSGVO (VO (EU) 2016/679) und DSG (BGBl I 165/1999 idgF). Rechtsgrundlagen nach Art 6, 9 DSGVO, Datenschutz-Folgenabschätzung nach Art 35, Verfahren vor der Datenschutzbehörde (DSB), Rechtsmittel an BVwG / VwGH / VfGH.",
+      "version": "0.1.0",
+      "author": {
+        "name": "claude-austria-law contributors"
+      }
+    }
+  ]
+}

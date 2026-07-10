@@ -1,0 +1,21 @@
+{
+  "name": "verwaltungsrecht-at",
+  "version": "0.0.1",
+  "description": "GERÜST (in Arbeit): Allgemeines Verwaltungsrecht und Verwaltungsverfahren in Österreich — AVG, VwGVG, VStG, VwGG, VfGG. Verfahren vor der Behörde, Bescheidbeschwerde, Verwaltungsstrafrecht, Säumnisschutz, Revision an VwGH und Erkenntnisbeschwerde an VfGH. Noch nicht in marketplace.json gelistet.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "claude-austria-law contributors"
+  },
+  "homepage": "https://github.com/bankosegger/claude-austria-law",
+  "keywords": [
+    "verwaltungsrecht",
+    "oesterreich",
+    "avg",
+    "vwgvg",
+    "vstg",
+    "vwgh",
+    "vfgh",
+    "bescheid",
+    "geruest"
+  ]
+}

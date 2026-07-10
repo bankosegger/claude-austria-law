@@ -1,0 +1,25 @@
+{
+  "name": "datenschutzrecht-at",
+  "version": "0.1.0",
+  "description": "Datenschutz in Österreich: DSGVO (VO (EU) 2016/679) und DSG (BGBl I 165/1999 idgF). Rechtsgrundlagen nach Art 6, 9 DSGVO, Betroffenenrechte, Auftragsverarbeitung (Art 28), Datenschutz-Folgenabschätzung (Art 35), Data-Breach-Meldung (Art 33, 34), Verfahren vor der Datenschutzbehörde (DSB), Rechtsmittel an BVwG / VwGH / VfGH, Drittlandtransfer nach Kapitel V DSGVO.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "claude-austria-law contributors"
+  },
+  "homepage": "https://github.com/bankosegger/claude-austria-law",
+  "keywords": [
+    "datenschutz",
+    "oesterreich",
+    "dsgvo",
+    "dsg",
+    "datenschutzbehoerde",
+    "dsb",
+    "dsfa",
+    "auftragsverarbeitung",
+    "avv",
+    "data-breach",
+    "drittlandtransfer",
+    "schrems",
+    "betroffenenrechte"
+  ]
+}

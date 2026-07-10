@@ -1,0 +1,20 @@
+{
+  "name": "gesellschaftsrecht-at",
+  "version": "0.0.1",
+  "description": "GERÜST (in Arbeit): Gesellschaftsrecht in Österreich — GmbHG, AktG, UGB, FlexKapGG, FBG. Rechtsformwahl, Gründung und Firmenbuch, Organhaftung, Gesellschafterbeschlüsse, Kapitalmaßnahmen und Umgründungen. Noch nicht in marketplace.json gelistet.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "claude-austria-law contributors"
+  },
+  "homepage": "https://github.com/bankosegger/claude-austria-law",
+  "keywords": [
+    "gesellschaftsrecht",
+    "oesterreich",
+    "gmbhg",
+    "aktg",
+    "ugb",
+    "flexkapgg",
+    "firmenbuch",
+    "geruest"
+  ]
+}

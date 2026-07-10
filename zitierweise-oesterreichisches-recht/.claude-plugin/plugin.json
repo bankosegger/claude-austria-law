@@ -1,0 +1,23 @@
+{
+  "name": "zitierweise-oesterreichisches-recht",
+  "version": "0.1.1",
+  "description": "Österreichische juristische Hauszitierweise: ABGB, Bundesgesetzblatt (BGBl I/II/III), OGH/VfGH/VwGH-Aktenzeichen, RIS-Justiz, RS-Nummern. Sperre gegen Blindzitate ohne frei prüfbare Quelle. Pflichtcheckliste vor jeder Ausgabe.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "claude-austria-law contributors"
+  },
+  "homepage": "https://github.com/bankosegger/claude-austria-law",
+  "keywords": [
+    "zitierweise",
+    "oesterreichisches-recht",
+    "ris-justiz",
+    "ogh-aktenzeichen",
+    "vfgh",
+    "vwgh",
+    "bgbl",
+    "rs-saetze",
+    "abgb",
+    "quellenhygiene",
+    "pinpoint-zitierung"
+  ]
+}
